@@ -3,7 +3,7 @@
 	"package": "net.barch.mm.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+      "MikesMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
